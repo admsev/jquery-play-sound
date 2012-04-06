@@ -1,0 +1,9 @@
+= jquery playSound
+
+This plugin defines $.playSound function.
+
+Usage:
+
+  $.playSound('http://example.org/sound.mp3');
+
+That's all folks!
