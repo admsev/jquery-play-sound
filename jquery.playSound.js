@@ -5,7 +5,7 @@
  * Usage: $.playSound('http://example.org/sound.mp3');
 */
 
-$(function(){
+(function($){
   $('body').append('<span id="playSound"></span>');
 
   $.extend({
@@ -14,4 +14,4 @@ $(function(){
     }
   });
 
-});
+})(jQuery);
