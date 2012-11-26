@@ -2,8 +2,10 @@
 
 This plugin defines $.playSound function.
 
-Usage:
+HTML:
+  Define an element with id "playSound" somewhere in body. Most likely, invisible.
 
+Javascript:
   $.playSound('http://example.org/sound.mp3');
 
 That's all folks!
