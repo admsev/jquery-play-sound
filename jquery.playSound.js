@@ -6,7 +6,9 @@
 */
 
 (function($){
-  $('body').append('<span id="playSound"></span>');
+  $(document).ready(function() {
+      $('body').append('<span id="playSound"></span>');
+  });
 
   $.extend({
     playSound: function(){
