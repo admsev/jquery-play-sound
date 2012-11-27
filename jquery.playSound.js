@@ -12,7 +12,7 @@
 
   $.extend({
     playSound: function(){
-      $('#playSound').html("<embed src='"+arguments[0]+"' hidden='true' autostart='true' loop='false'>");
+      $('#playSound').append("<embed src='"+arguments[0]+"' hidden='true' autostart='true' loop='false'>");
     }
   });
 
