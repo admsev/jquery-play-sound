@@ -2,6 +2,8 @@
 
 This plugin defines $.playSound function.
 
-  $.playSound('http://example.org/sound.mp3');
+  $.playSound('http://example.org/sound');
+
+this must be set without the file extension and should create a file in .mp3 and .ogg format
 
 That's all folks!
