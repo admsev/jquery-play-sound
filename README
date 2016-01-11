@@ -4,6 +4,6 @@ This plugin defines $.playSound function.
 
   $.playSound('http://example.org/sound');
 
-Do not add file extension like `.mp3` or `.ogg` - browser dows it automagically.
+Do not add file extension like `.mp3` or `.ogg` - browser does it automagically.
 
 That's all folks!
