@@ -4,7 +4,7 @@ This plugin defines $.playSound function.
 ```
   $.playSound('http://example.org/sound');
 ```
-Demo: https://jsfiddle.net/admsev/w2d3wggL/7/
+Demo: https://jsfiddle.net/admsev/xscxya0g/
 
 Important: Do not add file extension like `.mp3` or `.ogg` - browser does it automagically.
 
