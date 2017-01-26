@@ -2,10 +2,16 @@
 
 This plugin defines $.playSound function.
 ```
-  $.playSound('http://example.org/sound');
+ $.playSound('http://example.org/sound')
+ $.playSound('http://example.org/sound.wav')
+ $.playSound('/attachments/sounds/1234.wav')
+ $.playSound('/attachments/sounds/1234.mp3')
+ 
+ //Stop Sound
+ $.stopSound();
 ```
 Demo: https://jsfiddle.net/admsev/xscxya0g/
 
-Important: Do not add file extension like `.mp3` or `.ogg` - browser does it automagically.
+Enjoy it!
 
 That's all folks!
