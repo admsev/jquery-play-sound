@@ -2,7 +2,6 @@
 
 This plugin defines $.playSound function.
 ```
- $.playSound('http://example.org/sound')
  $.playSound('http://example.org/sound.wav')
  $.playSound('/attachments/sounds/1234.wav')
  $.playSound('/attachments/sounds/1234.mp3')
