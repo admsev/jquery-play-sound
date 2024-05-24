@@ -13,4 +13,3 @@ Demo: https://jsfiddle.net/admsev/xscxya0g/
 
 Enjoy it!
 
-That's all folks!
